@@ -6,7 +6,7 @@
 ### Table of contents
 
 * [Motivation](#motivation)
-* [Infographic](#infographic)
+* [Machine Learning](#machine-learning)
 * [What is Data Science?](#what-is-data-science)
 * [Colleges](#colleges)
 * [MOOC's](#moocs)
@@ -25,7 +25,7 @@
 * [Comics](#comics)
 * [Tutorials](#tutorials)
 * [Other Awesome Lists](#other-awesome-lists)
-
+* [Infographic](#infographic)
 
 ## Motivation
 
