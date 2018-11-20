@@ -50,8 +50,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
  * CART
  
  ### Cheat sheets
- - <a taget="_blank" title="Machine learning algorithm cheat sheet for Azure Machine Learning Studio" href="https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-sheet">Machine learning algorithm cheat sheet for Azure Machine Learning Studio</a>
+ [Machine learning algorithm cheat sheet for Azure Machine Learning Studio](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-sheet)
  
-**Also,you can  find most data mining algorithms in [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) program easily **
+**Also,you can find most data mining algorithms in [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) program easily **
 
 
