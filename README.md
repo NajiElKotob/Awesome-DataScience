@@ -10,7 +10,8 @@
 * [What is Data Science?](#what-is-data-science)
 * [Colleges](#colleges)
 * [MOOC's](#moocs)
-* [Data Sets ](#data-sets)
+* [Datasets](#datasets)
+* [R](#R)
 * [Bloggers](#bloggers)
 * [Podcasts](#podcasts)
 * [Books](#books)
@@ -108,7 +109,7 @@ Preview | Description
 * [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion) 
 * [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 
-## Data Sets
+## Datasets
 
 * [Academic Torrents](http://academictorrents.com/)
 * [hadoopilluminated.com](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
@@ -163,6 +164,9 @@ Preview | Description
 * [GHTorrent](http://ghtorrent.org/)
 * [Microsoft Research Open Data](https://msropendata.com/)
 * [Open Government Data Platform India](https://data.gov.in/)
+
+## R
+- [R Notebook](https://rnotebook.io) Run your Jupyter R notebooks in the cloud
 
 ## Bloggers
 
