@@ -519,6 +519,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
  - [Awesome-Community-Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
  - [Awesome-Graph-Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+ - [Power BI Heroes](https://github.com/NajiElKotob/Awesome-Power-BI-Heroes)
  
  
  ## Infographic
