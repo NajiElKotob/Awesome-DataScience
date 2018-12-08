@@ -254,6 +254,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
 
 ## Books
+- Anil Maheshwari [Data Analytics](https://amzn.to/2E8xYOs)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
 - [The Art of Data Usability](https://www.manning.com/books/the-art-of-data-usability) - Early access
@@ -519,7 +520,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
  - [Awesome-Community-Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
  - [Awesome-Graph-Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
- - [Power BI Heroes](https://github.com/NajiElKotob/Awesome-Power-BI-Heroes)
+ - [Awesome Power BI](https://github.com/NajiElKotob/Awesome-Power-BI)
  
  
  ## Infographic
