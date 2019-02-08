@@ -53,6 +53,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 ## Machine Learning
 * [Learn Machine Learning with Kaggle](https://www.kaggle.com/learn/machine-learning)
 * [Do You Understand The Difference Between Deep Learning And Neural Networks?](https://www.linkedin.com/pulse/do-you-understand-difference-between-deep-learning-neural-marr)
+* [The Most Amazing Artificial Intelligence Milestones So Far](https://bernardmarr.com/default.asp?contentID=1770)
 
 ## COLLEGES
 
@@ -150,7 +151,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Open Government Data Platform India](https://data.gov.in/)
 
 ## R
-- [R Notebook](https://rnotebook.io) Run your Jupyter R notebooks in the cloud
+- [Awesome R](https://github.com/NajiElKotob/Awesome-R)
 
 ## Bloggers
 
