@@ -52,6 +52,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 
 ## Machine Learning
 * [Learn Machine Learning with Kaggle](https://www.kaggle.com/learn/machine-learning)
+* [Do You Understand The Difference Between Deep Learning And Neural Networks?](https://www.linkedin.com/pulse/do-you-understand-difference-between-deep-learning-neural-marr)
 
 ## COLLEGES
 
